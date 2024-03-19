@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VoiDeDuwu
-- 👀 I’m interested in Cheat Developing
-- 🌱 I’m currently learning C++/C#
-- 📫 Discord VoiDeD#6666
+- 👋 Hi, I’m @VoiDe
+- 👀 I’m interested in Cheat Developing/Lua
+- 🌱 I’m currently learning Lua
+- 📫 Discord fakevoided
